@@ -1,0 +1,2 @@
+# EasyTask
+Simple task management
